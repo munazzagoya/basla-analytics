@@ -33,3 +33,11 @@ basla-analytics/
 ├── .gitignore           # Excludes local databases & service credentials
 └── README.md            # Project documentation
 ```
+
+---
+
+## 🌐 Local Access
+
+Once you launch the app using `streamlit run dashboard.py`, open your browser and navigate to:
+
+`http://localhost:8501`
